@@ -1,10 +1,3 @@
-//
-//  Tap_FrenzyApp.swift
-//  Tap Frenzy
-//
-//  Created by Amandi Sewmini Wickramasinghe on 2026-11-17.
-//
-
 import SwiftUI
 
 @main
